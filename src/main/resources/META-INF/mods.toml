@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+issueTrackerURL="https://github.com/sjjsdw/a/issues"
+
+[[mods]]
+modId="a"
+version="1.0.0"
+displayName="a"
+displayURL="https://github.com/sjjsdw/a"
+authors="sjjsdw"
+description="Mod description for a."
+
+[[dependencies.a]]
+modId="forge"
+mandatory=true
+versionRange="[47,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.a]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.21)"
+ordering="NONE"
+side="BOTH"
